@@ -1,0 +1,4 @@
+build/
+smvf_demo
+*.o
+*.a
